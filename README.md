@@ -20,6 +20,7 @@ As we are creating Tokens for NFT, we will create ERC20 tokens.
 * set up the goerli network on **hardhat.config.js** (so we can deploy our contract to goerli network) 
 * Making website for my NFT Collection using **React.js** and **NEXT.js** 
 * Exporting **NFT_CONTRACT_ABI**, **NFT_CONTRACT_ADDRESS**, **TOKEN_CONTRACT_ABI**, **TOKEN_CONTRACT_ADDRESS**
+* Deployed website on vercel 
 
 ## Article 
 
